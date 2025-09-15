@@ -1,4 +1,5 @@
 SN SmartLearn---Student-Course-Management-System
+
 Project Title: "SN SmartLearn - Student & Course Management System"
 
 Industry: Education Technology (EdTech) Project Type: B2C Salesforce CRM implementation Target Users: Admissions Team, Course Instructors, and Students
@@ -11,12 +12,12 @@ Use Cases-
 
 Student Enrollment:
 
-Automatically capture student application details from a web form.
-Track the status of each application from submission to enrollment.
-Course & Curriculum Management:
-Create and manage records for all courses offered, including their modules and instructors.
-Link students to the courses they are enrolled in.
-Student Progress Tracking:
+1.Automatically capture student application details from a web form.
+2.Track the status of each application from submission to enrollment.
+3.Course & Curriculum Management:
+4.Create and manage records for all courses offered, including their modules and instructors.
+5.Link students to the courses they are enrolled in.
+6.Student Progress Tracking:
 
 1.Log student progress through course modules and completion of assignments. 2.Create a custom object to track and store grades or assessment results. 3.Communication Automation: 4.Send automated welcome emails to new students upon enrollment. 5.Use email alerts to remind students of upcoming deadlines.
 
