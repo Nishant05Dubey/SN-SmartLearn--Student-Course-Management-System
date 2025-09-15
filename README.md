@@ -1,4 +1,4 @@
-SN SmartLearn---Student-Course-Management-System
+#SN SmartLearn---Student-Course-Management-System
 
 Project Title: "SN SmartLearn - Student & Course Management System"
 
