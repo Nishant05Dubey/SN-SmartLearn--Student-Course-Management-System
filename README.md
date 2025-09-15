@@ -26,10 +26,15 @@ Student Enrollment:
 
 
 1.Log student progress through course modules and completion of assignments.
+
 2.Create a custom object to track and store grades or assessment results. 
+
 3.Communication Automation:
+
 4.Send automated welcome emails to new students upon enrollment.
+
 5.Use email alerts to remind students of upcoming deadlines.
+
 
 Reporting & Dashboards:
 
