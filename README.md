@@ -8,7 +8,7 @@ Problem Statement- An online education platform is currently managing student ap
 
 To address this, the company wants to implement a Salesforce CRM to: #Automate the student application and enrollment process #Centralize all student and course data #Track student progress and course history #Streamline communication with students, instructors, and the admissions team #Enable real-time dashboards for management to track key metrics like enrollment and retention
 
-Use Cases-
+#Use Cases-
 
 Student Enrollment:
 
@@ -22,7 +22,7 @@ Student Enrollment:
 
 5.Link students to the courses they are enrolled in.
 
-Student Progress Tracking:
+#Student Progress Tracking:
 
 1.Log student progress through course modules and completion of assignments.
 
@@ -34,6 +34,6 @@ Student Progress Tracking:
 
 5.Use email alerts to remind students of upcoming deadlines.
 
-Reporting & Dashboards:
+#Reporting & Dashboards:
 
 1.Dashboard for the admissions team to view the application funnel. 2.Reports to analyze course popularity and student retention rates.
